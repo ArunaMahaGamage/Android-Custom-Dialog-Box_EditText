@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+</resources>
